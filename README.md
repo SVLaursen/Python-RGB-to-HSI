@@ -15,3 +15,8 @@ To this:
 
 ## Important!
 The algorithm is not perfect and does not convert the image perfectly. If you wish to develop further on it then you're more than welcome!
+
+## What I Learned
+- How to deconstruct an image file into 3 different colour channels
+- How to program with Python and the Numpy library
+- How to use recalculate the RGB colour spectrum to the HSI spectrum
